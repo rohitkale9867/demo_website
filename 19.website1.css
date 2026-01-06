@@ -1,0 +1,811 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.socialbox{
+    height: 60px;
+    width: 100%;
+    background-color: #0d2d3e;
+    float: left;
+}
+.socialbox2{
+    height: 60px;
+    width: 35%;
+    /* background-color: red; */
+    float: right;
+}
+.schedule{
+    height:100% ;
+    width:35% ;
+    /* background-color: aqua; */
+    padding-top: 15px;
+    padding-left: 65px;
+    box-sizing: border-box;
+    color: whitesmoke;
+    float: left;
+}
+.schedule i{
+    float: left;
+}
+
+.icon{
+    height: 100%;
+    width: 40px;
+    /* background-color: yellow; */
+    float: left;
+    margin-left: 40px;
+    text-align: center;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+.icon:hover{
+    color: chartreuse;
+}
+.navbar_box{
+    height: 100px;
+    width: 100%;
+     background-color:rgb(239, 227, 239); 
+    float: left;
+    position: sticky;
+    top: 0px;
+    backdrop-filter:blur(45px);
+}
+.logo_box{
+    height: 100%;
+    width:50%;
+    /* background-color: aqua; */
+    text-align: center;
+    padding-top:35px;
+    box-sizing: border-box;
+    float:left ;
+    
+}
+.page{
+    height: 100%;
+    width: 50%;
+    /* background-color:pink; */
+    float: right;
+}
+.page1{
+    height: 100%;
+    width: 15%;
+    /* background-color: red; */
+    box-sizing: border-box;
+    padding-top: 35px;
+    text-align: center;
+    float: left ;
+}
+.business{
+    height: 730px;
+    width: 100%;
+    background-image:url(https://preview.colorlib.com/theme/consultingbiz/assets/img/hero/h1_hero.jpg) ;
+    background-position: 100% 100%;
+    background-size: 100% 100%;
+    float: left;
+    
+}
+.services{
+    height: 100%;
+    width: 100%;
+    /* background-color: orange ; */
+}
+
+.left
+{
+    height: 70px;
+    width: 70px;
+    border: 2px solid rgb(82, 67, 67);
+    position: absolute;
+    top: 55%;
+    float: left;
+    text-align: center;
+    margin-top:20px;
+}
+.all_service_data{
+    height: 100%;
+     width: 50%;
+     /* background-color: #0d2d3e; */
+     float: left;
+}
+
+.title_services{
+    color: orangered;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 20%;
+}
+
+.all_service_data h1
+{
+    font-size: 50px;
+    margin-left: 20%;
+}
+
+.right
+{
+    height: 70px;
+    width: 70px;
+    border: 2px solid black;
+    position: relative;
+    left: 45%;
+    top: 35%;
+    float: left;
+    text-align: center;
+    
+}
+
+.services_details{
+    margin-left: 20%;
+}
+
+.our_services{
+    margin-left:20%;
+    height: 5%;
+    width: 15%;
+    background-color: red;
+    padding-left: 10px;
+    padding-top: 20px;
+    font-size: 150%;
+    color: aliceblue;
+}
+
+h1{
+    margin-top: 12px;
+    font-size:50px;
+    
+}
+
+.our_services:hover{
+    color: chartreuse;
+}
+.case_study{
+    height:800 px;
+    width: 100%;
+    background-color: #099ded;
+    float:left;
+    padding-top: 100px;
+    box-sizing: border-box;
+    padding-bottom: 10px;
+    
+}
+
+.case_heading{
+    height: 20%;
+    width: 100%;
+    color: orangered;
+    padding-left:120px;
+    box-sizing: border-box;
+    p{
+        color: red;
+    }
+    h1{
+        font-size: 50px;
+        color: #0d2d3e;
+    }
+    
+
+}
+
+.strategy1{
+    height:400px;
+    width:45%;
+    background-color: red;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPNy10N_EIJk3Zmo0XxnuKzcvp2ZrPS9Al0A&s) ;
+    
+    float: left;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    
+    
+}
+
+.strategy2{
+    height:400px;
+    width:45%;
+    background-color: red;
+    background-image:url(https://media.licdn.com/dms/image/v2/C4E12AQGZ-2UImPVEkg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520167208942?e=2147483647&v=beta&t=q8wPwIODerDvm4w1mJbcxbR_bRyzlilGTRr3SoDFgwU) ;
+    float:left;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.servise_1{
+    height: 130px;
+    width: 50%;
+    background-color: rgb(241, 241, 230);
+    position: relative;
+    top: 72%;
+    p{
+        color: orangered;
+    }
+}
+
+.strategy3{
+    height:400px;
+    width:45%;
+    background-color: red;
+    background-image:url(https://thumbs.dreamstime.com/b/closeup-business-woman-work-finance-analysis-planing-data-laptop-typing-looking-graph-computer-statistic-success-112713193.jpg) ;
+    
+    float: left;
+    margin-left: 45px;
+    margin-top: 15px;
+    padding-top: 25px;
+}
+
+.strategy4{
+    height:400px;
+    width:45%;
+    background-color: red;
+    background-image:url(https://media.istockphoto.com/id/1140281595/photo/tourist-planing-travel-plan-trip-vacation.jpg?s=612x612&w=0&k=20&c=g-3Y-2-U8ahphOXzS0uMdvAf-r4_TZ1OSN6-eZHKhgI=);
+    float:left;
+    margin-left: 10px;
+    padding-top: 25px;
+    margin-top: 15px;
+}
+.our_best_services
+{
+    height:700px;
+    width:30%;
+    background-color:#ff0015;
+    float: left;
+    
+    
+}
+.our_best_services2
+{
+    height:700px;
+    width:70%;
+    background-color:#435060;
+    float: left;
+    
+    
+}
+.our_best_services2
+{
+    height:700px;
+    width:70%;
+     background-color:#8a6cbe;
+    background-image:url(https://png.pngtree.com/background/20210717/original/pngtree-blue-dot-line-network-technology-background-picture-image_1439187.jpg);
+    float: left;
+    h2{
+        margin-top:15%;
+        margin-left:30%;
+        font-size: 20px;
+        color:wheat;
+    }
+    p{
+        color: whitesmoke;
+        margin-left:28%;
+        font-size:25px;
+        
+
+      }
+      h5{
+        margin-top:5%;
+        margin-left:30%;
+        font-size:50px;
+        color:darkseagreen;
+      }
+      h6{
+        margin-left: 28%;
+        font-size: 20px;
+        color: whitesmoke;
+      }
+    
+    
+    
+}
+
+.photo
+{
+    height:520px;
+    width:30%;
+    background-color:#70e311;
+    background-image:url(https://www.shutterstock.com/image-photo/asian-businessman-lead-young-group-260nw-2672376383.jpg);
+    float: left;
+    position: absolute;
+    margin-top: 8%;
+    left:13%;
+    box-sizing:border-box;
+    background-size: 100% 100%; 
+}
+.hover_box{
+    height: 30px;
+    width: 200px;
+    background-color: red;
+    float: left;
+    margin-left: 28%;
+    margin-top:3%;
+    text-align: center;
+    border-radius: 10px;
+    h4{
+        margin-top:3%;
+        color: whitesmoke;
+    }
+
+}
+    
+.hover_box:hover{
+    background-color:whitesmoke;
+}
+.best_service{
+    height: 700px;
+    width:100%;
+    /* background-color: #8a6cbe;  */
+    float: left;
+    padding-left:15%;
+    padding-top:5%;
+    p{
+        color: #ff0015;
+        font-size: 20px;
+    }
+    h1{
+        color:rgb(40, 40, 70);
+    }
+}
+.hover_box11{
+    height: 400px;
+    width: 380px;
+    background-color:whitesmoke;
+    float: left;
+    margin-top:5%;
+    margin-left: 1%;
+
+    text-align: center;
+    box-sizing: border-box;
+     p{
+      color: #0d2d3e;
+    }
+
+}
+.hover_box11:hover{
+    background-color:rgb(231, 71, 71);
+}
+.hover_box12{
+    height: 400px;
+    width: 380px;
+    background-color:whitesmoke; 
+    float: left;
+     margin-top:5%;
+    margin-left:1%;
+    text-align: center;
+    box-sizing: border-box;
+     p{
+      color: #0d2d3e;
+    }
+    
+}
+.hover_box12:hover{
+    background-color:rgb(231, 71, 71);
+}
+.hover_box13{
+      height: 400px;
+    width: 380px;
+    background-color:whitesmoke;
+    float: left;
+     margin-top:5%;
+    margin-left:2%;
+    text-align: center;
+    box-sizing: border-box;
+    p{
+      color:#0d2d3e;
+    }
+}
+
+.phtographer{
+  height:500px;
+  width:50%;
+  background-color:#0d2d3e;
+  float: left;
+  p{
+    position:absolute;
+    margin-top:4%;
+    margin-left:15%;
+    text-align: center;
+    font-size:20px;
+    color: whitesmoke;
+    font-style:bold;
+  }
+  
+}
+
+.phtographer2{
+  height:500px;
+  width: 50%;
+  background-color:#0d2d3e;
+  float: left;
+  h1{
+    color: orange;
+    font-style: bold;
+    font-size:50px;
+    
+  }
+  
+  
+}
+
+.ls{
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+    position:relative;
+    top:35%;
+    left:18%;
+    border-radius: 10px;
+    h2{
+        padding-top:10px;
+        padding-left: 15px;
+    }
+}
+.rs{
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+    position:relative;
+    top:20%;
+    left:70%;
+    border-radius: 10px;
+     h2{
+        padding-top:10px;
+        padding-left: 15px;
+    }   
+}
+
+.rs:hover{
+    color: orange;
+    border-color: orange;
+}
+.ls:hover{
+    color: orange;
+    border-color: orange;
+}
+
+.chif{
+    height:100px;
+    width: 300px;
+    /* background-color: purple; */
+    float: left;
+    position: relative;
+    top:35%;
+    left:85%;
+    padding-top: 10px;
+    padding-left: 20px;
+    h3{
+        color: orange;
+        margin-top: 10px;
+        margin-left:20px;
+    }
+    p{
+        margin-left: 100px;
+        color: #2384b9;
+    }
+}
+
+.dp{
+    height: 100px;
+    width:100px;
+    background-color: aliceblue;
+    border-radius: 1000px;
+    
+    float: left;
+    margin-right:0px;
+
+}
+
+.all_frame{
+    height: 300px;
+    width: 100%;
+    /* background-color: #6c83be; */
+    float: left;
+}
+
+.all_frame1{
+    height:150px;
+    width: 35%;
+    background-color:rgb(228, 4, 41);
+    float: left;
+    position: relative;
+    top:75%;
+    left:25%;
+    text-align: center;
+    border:15px white solid ;
+    p{
+          color: #0d2d3e;
+    }
+    box-sizing: border-box;
+
+
+}
+
+.all_frame2{
+    height:150px;
+    width:35%;
+    background-color:white;
+    float: left;
+     position: relative;
+    top:45%;
+    margin-left:20px;
+    left:24%;
+    text-align: center;
+    border:2px solid black ;
+    p{
+        color: #0d2d3e;
+    }
+    box-sizing: border-box;
+    
+    
+
+}
+.all_frame3{
+    height:150px;
+    width:35%;
+    background-color:white;
+    float: left;
+     position: relative;
+    top:60%;
+    margin-right: 20px;
+    left:8%;
+    text-align:center ;
+    border:2px solid black ;
+    box-sizing: border-box;
+    
+    
+
+}
+.all_frame4{
+    height:150px;
+    width:35%;
+    background-color:white;
+    float: left;
+     position: relative;
+    top:60%;
+    left:10%; 
+    text-align: center;
+    border:2px solid black ;   
+
+}
+
+.pro_member{
+    height:1100px;
+    width:100%;
+    background-color: white;
+    float: left ;
+    p{
+        margin-top:5%;
+        margin-left: 15%;
+        color: orange;
+        font-size:30px;
+    }
+    h1{
+         margin-left:15%;
+         margin-top: 2%;
+    }
+
+}
+.our_member{
+    height:50px;
+    width:360px;
+    background-color:white;
+    float: left;
+    margin-left:7%;
+    margin-top:5%;
+    border: 1px solid black;
+    h2{
+        margin-left:12%;
+    }
+}
+.first_consulatant{
+    height:305px;
+    width: 100%;
+
+    
+    background-color: yellowgreen;
+    background-image:url(https://preview.colorlib.com/theme/consultingbiz/assets/img/gallery/section_bg03.jpg);
+    float: left ;
+    h1{
+        color: whitesmoke;
+        padding-top:3%;
+        padding-left: 5%;
+    }
+}
+
+.more{
+    height: 50px; width:230px; background-color:black;
+     margin-left:70%; position: relative; top:53%; left:5%;
+     h3{
+        color:white;
+        text-align: center;
+        padding-top:5%;
+        box-sizing: border-box;
+     }
+}
+.more:hover{
+    background-color:hotpink;
+}
+.recent_new{
+    height:1100px;
+    width: 100%;
+    /* background-color: #8a6cbe; */
+    float: left;
+    h6{
+        margin-left: 20%;
+        color: orangered;
+        font-size: 20px;
+        margin-top:5%;
+    }
+    h1{
+        margin-left: 20%
+    }
+}
+
+.gf{
+    height:650px;
+    width:555px;
+    background-color:white;
+    float: left;
+    margin-top:10%;
+    margin-left:9%;
+    h2{
+        font-size:23px;
+        margin-left:20%;
+    }
+    h5{
+        font-size:15px;
+        margin-left: 20%;
+    }
+    p{
+        color:orange;
+        font-size:18px;
+    }
+
+}
+.white_box{
+    height:80px;
+    width:350px;
+    background-color:white;
+     position: relative;
+    top:41%;
+    left:54.5%;
+    p{
+        color: black;
+    } 
+    
+}
+.white_box2{
+    height:80px;
+    width:350px;
+    background-color:white;
+    position:relative;
+    top:34.5%;
+    left:9%;
+    
+}
+.logo{
+    height:300px; 
+    width: 100%; 
+   /* background-color: pink;   */
+    float: left;
+    margin:22px;
+    padding-bottom: 5%;
+
+}
+.logo1{
+    height:70px; 
+    width:15%; 
+     /* background-color:blueviolet; */
+    float: left;
+    margin-top:3%;
+    margin-left:2%;
+
+}
+
+.footer{
+    height:750px;
+    width:100%;
+    background-color: gold;
+    float: left;
+    margin-top:5%;
+    background-image:url(https://preview.colorlib.com/theme/consultingbiz/assets/img/gallery/footer_bg.jpg);
+}
+
+.consulting{
+    height:300px;
+    width: 300px;
+    margin-left: 10px;
+    /* background-color:brown;  */
+    float: left;
+    margin-top: 10%;
+    margin-left:6%;
+    h4{
+        color: red;
+    }
+     h2{
+        color: whitesmoke;
+     }
+     p{
+        color: white;
+     }
+    
+}
+.footlocation{
+    height:300px;
+    width: 300px;
+    /* background-color: whitesmoke;  */
+    float: left;
+     margin-left:5%;
+     margin-top: 10%;
+      h2{
+        color: whitesmoke;
+     }
+     p{
+        color: white;
+     }
+    
+}
+
+.explore
+{
+    height:250px;
+    width:200px;
+    /* background-color:brown; */
+     float: left;
+     
+     margin-top: 10%;
+      h2{
+        color: whitesmoke;
+     }
+     p{
+        color: white;
+     }
+    
+
+}
+
+.location3{
+    height:400px;
+    width:250px;
+    /* /* background-color: whitesmoke; */
+     float: left; 
+     margin-left:8%;
+     margin-top: 10%;
+     h2{
+        color: whitesmoke;
+     }
+     p{
+        color: white;
+     }
+    
+}
+
+.border{
+    height:1px;
+    width:90%;
+    background-color: rgb(248, 239, 239); 
+     float: left;
+    margin-left:3%;
+    
+}
+
+
+
+.foot5{
+    height:30px;
+    width:90%;
+    /* background-color: #ff0015;  */
+    float: left;
+    margin-left:3%;
+    p{
+        color: whitesmoke;
+        font-size:25px;
+        margin-top:15px;
+    }
+}
+
+.icon{
+    float: right;
+    margin-left:10px;
+    color: white;
+    p{
+        color: whitesmoke;
+    }
+}
